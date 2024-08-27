@@ -9,7 +9,7 @@ When you want to upload a program to the microcontroller, follow these instructi
   1. Connect the USB cable from the Trainer to the computer system before you open the Arduino IDE software. This is important!
   1. After opening the desired program experiment, click on the `Upload` button. (This should be the arrow-right icon on the task bar or you click `Ctrl + U`.)
   2. The code should upload to the microcontroller, BUT if it doesn't...
-  3. Select another Port and upload again. (Change to COM8, COM6 COM11 or any available port until it uploads successfully to the microcontroller.)
+  3. Select another Port and upload again. (Change to COM8, COM6, COM11 or any available port until it uploads successfully to the microcontroller.)
   4. If you follow the instructions, the program should upload successfully after changing the ports.
 
 To control the devices after upload a program:
